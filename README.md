@@ -1,6 +1,6 @@
 # Basic-Snake-Game
 
-Controls::
+Controls:
 A: Move Left 
 W: Move Up
 S: Move Down
