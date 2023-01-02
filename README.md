@@ -1,4 +1,4 @@
-# Basic-Snake-Game
+# Snake-Game
 
 Controls:
 A: Move Left 
